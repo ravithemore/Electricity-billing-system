@@ -15,7 +15,7 @@ This Java project is an Electricity Billing System designed to streamline the pr
 1. Clone the repository:
 
     ```
-    git clone https://github.com/yourusername/electricity-billing-system.git
+     https://github.com/ravithemore/Electricity-billing-system/tree/main
     ```
 
 2. Open the project in your preferred Java IDE.
@@ -57,12 +57,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors ✍️
 
-- [Your Name](https://github.com/ravithemore) - Initial work
+- [Ravi M Damor](https://github.com/ravithemore) - Initial work
 
 nce.
 
 ## Support ℹ️
 
-For any inquiries or issues, please contact [your@email.com].
+For any inquiries or issues, please contact [damorravi540@gmail.com].
 
 Enjoy managing your electricity billing efficiently with this system! 🔌
